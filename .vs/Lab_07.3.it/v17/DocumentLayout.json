@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Student\\Lab_07.3.it\\",
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Student\\Lab7\\Lab_07.3.it\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7DBA389-BDF3-45BD-8433-4330685C3665}|Lab_07.3.it\\Lab_07.3.it.vcxproj|C:\\Users\\hp\\Desktop\\Student\\Lab_07.3.it\\Lab_07.3.it\\Lab_07.3.it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{910529BB-9312-4837-0977-7CB9D15C3409}|UnitTest23\\UnitTest23.vcxproj|C:\\Users\\hp\\Desktop\\Student\\Lab7\\Lab_07.3.it\\UnitTest23\\UnitTest23.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{910529BB-9312-4837-0977-7CB9D15C3409}|UnitTest23\\UnitTest23.vcxproj|solutionrelative:UnitTest23\\UnitTest23.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DBA389-BDF3-45BD-8433-4330685C3665}|Lab_07.3.it\\Lab_07.3.it.vcxproj|C:\\Users\\hp\\Desktop\\Student\\Lab7\\Lab_07.3.it\\Lab_07.3.it\\Lab_07.3.it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A7DBA389-BDF3-45BD-8433-4330685C3665}|Lab_07.3.it\\Lab_07.3.it.vcxproj|solutionrelative:Lab_07.3.it\\Lab_07.3.it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,10 +23,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest23.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Student\\Lab7\\Lab_07.3.it\\UnitTest23\\UnitTest23.cpp",
+              "RelativeDocumentMoniker": "UnitTest23\\UnitTest23.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Student\\Lab7\\Lab_07.3.it\\UnitTest23\\UnitTest23.cpp",
+              "RelativeToolTip": "UnitTest23\\UnitTest23.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-02T15:12:52.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Lab_07.3.it.cpp",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Student\\Lab_07.3.it\\Lab_07.3.it\\Lab_07.3.it.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Student\\Lab7\\Lab_07.3.it\\Lab_07.3.it\\Lab_07.3.it.cpp",
               "RelativeDocumentMoniker": "Lab_07.3.it\\Lab_07.3.it.cpp",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Student\\Lab_07.3.it\\Lab_07.3.it\\Lab_07.3.it.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Student\\Lab7\\Lab_07.3.it\\Lab_07.3.it\\Lab_07.3.it.cpp",
               "RelativeToolTip": "Lab_07.3.it\\Lab_07.3.it.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
